@@ -1,9 +1,9 @@
 # Hi there 👋
 
 :computer: Languages
-:pencil: Frameworks
-:eyeglasses: Library
-:oncoming_automobile: GitHub Stats
+:pencil: a
+:eyeglasses: b
+:oncoming_automobile: c
 
 ## Vías de contacto
 
